@@ -2,3 +2,7 @@ Esto es un simulacro.
 
 Aquí vamos a hacer unas pruebas de git.
 Empezamos a trabajar.
+
+---
+Esta sería la versión de explotación.
+---
