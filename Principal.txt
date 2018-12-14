@@ -11,4 +11,8 @@ Este es mi nuevo párrafo que aún no quiero que el cliente vea.
 
 Cambios en interno
 
+<<<<<<< HEAD
 Cambios nuevos
+=======
+Nuevos cambios cliente
+>>>>>>> cliente
